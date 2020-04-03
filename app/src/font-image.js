@@ -1,0 +1,3 @@
+var font = '';
+
+var imgData = '';
