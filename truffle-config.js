@@ -22,7 +22,7 @@
 // const infuraKey = "fj4jll3k.....";
 //
 // const fs = require('fs');
- const mnemonic = 'lend random viable urge clump debate violin predict raw error pulp sphere';
+ const mnemonic = '<please add your mnemonic here>';
 
 module.exports = {
   /**
